@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_title">Lista de Tarefas</string>
+    <string name="app_name">Gerenciador Tarefas MVVM</string>
+    <string name="add_new_task">Adicionar nova tarefa.</string>
+    <string name="task_description">Descrição da tarefa</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="task_inserted_sucess">Tarefa inserida com sucesso.</string>
+    <string name="task_inserted_error">Erro ao inserir tarefa.</string>
+
+    <string-array name="spinner_filter">
+        <item>Todas as atividades</item>
+        <item>Atividades concluídas</item>
+        <item>Atividades pendentes</item>
+    </string-array>
+</resources>
