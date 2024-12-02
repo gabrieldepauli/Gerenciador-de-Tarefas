@@ -20,6 +20,6 @@ O projeto do Gereciador de Tarefas foi criado por Gabriel de Pauli Santos, aluno
 
 ### Sobre o Projeto ℹ
 
-Este projeto é uma aplicação Android (Mobile) com o objetivo de criar uma "Lista de Tarefas" personalizada, onde o usuário poderá criar novas atividades e também alterar o estado (Concluída - verde / Pendente - vermelha) da mesma. As atividades ainda pendentes irão aparecer primeiro na listagem, seguidas das já concluídas. Outra funcionalidade é a de filtrar as tarefas podendo alternar o filtro entre "Todas as atividades", "Atividades Pendentes" e "Atividades Concluídas".
+Este projeto é uma aplicação Android (Mobile) com o objetivo de criar uma "Lista de Tarefas" personalizada. Onde o usuário poderá criar novas atividades e também alterar o estado (Concluída - verde / Pendente - vermelha) da mesma. As atividades ainda pendentes irão aparecer primeiro na listagem, seguidas das já concluídas. Outra funcionalidade é a de filtrar as tarefas podendo alternar o filtro entre "Todas as atividades", "Atividades Pendentes" e "Atividades Concluídas".
 
 **Obs:** Foram definidas algumas atividades padrões no código apenas para melhor compreensão.  
