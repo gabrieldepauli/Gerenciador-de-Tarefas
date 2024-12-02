@@ -15,7 +15,6 @@
         android:text="@string/app_title"
         android:textSize="24sp"
         android:textStyle="bold"
-        android:textColor="@color/black"
         android:textAlignment="center"
         android:padding="8dp"
         app:layout_constraintTop_toTopOf="parent"
